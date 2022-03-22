@@ -4,6 +4,7 @@ Projeto desenvolvido como requisito final do módulo de Front-end da Trybe desen
 - Julio Rieger, Rafael Santos Carvalho,
 - Regiane Cristina Ferreira dos Santos
 - Tiago Garbi Baganha.
+
 O objetivo foi desenvolver um aplicativo mobile-first, onde é feito sugestões de comidas e bebidas com possibilidade de salvar e marcar o progresso de preparo de cada receita. Os dados das receitas vêm de 2 APIs distintas, uma para comidas e outra para bebidas. Nesta aplicação é possível ver, buscar, filtrar, favoritar e acompanhar o processo de preparação de receitas e drinks!
 
 COMO USAR
